@@ -1,0 +1,27 @@
+
+CONTOH DATA GEOMETRI - EUCLID LAB
+
+1. PERSEGI
+Sisi: 5
+Luas: 25
+Keliling: 20
+
+2. PERSEGI PANJANG
+Panjang: 8
+Lebar: 4
+Luas: 32
+Keliling: 24
+
+3. SEGITIGA
+Alas: 10
+Tinggi: 6
+Luas: 30
+
+4. LINGKARAN
+Jari-jari: 7
+Luas: 153.94
+Keliling: 43.98
+
+Catatan:
+Nilai luas dan keliling lingkaran menggunakan pendekatan pi = 3.14159.
+Data ini digunakan sebagai referensi contoh pengujian perhitungan geometri.
